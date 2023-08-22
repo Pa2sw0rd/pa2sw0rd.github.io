@@ -1,1 +1,1 @@
-[{"name":"硬件","path":"api/categories/硬件.json","slug":"硬件","count":1},{"name":"安全","path":"api/categories/硬件/安全.json","slug":"硬件/安全","count":1}]
+[{"name":"安全","path":"api/categories/安全.json","slug":"安全","count":1},{"name":"硬件","path":"api/categories/安全/硬件.json","slug":"安全/硬件","count":1}]
